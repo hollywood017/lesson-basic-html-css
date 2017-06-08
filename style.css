@@ -1,0 +1,41 @@
+body{
+  background-color: #00BFFF;
+}
+#topnav {
+  color: purple;
+  font-weight: bold;
+}
+#superlink{
+  color: purple;
+  font-weight: bold;
+}
+h1 {
+  font-size: 41px;
+}
+p{
+  font-size: 22px;
+}
+
+.content{
+  text-align: center;
+}
+img{
+ width: 500px;
+ height: 399px;
+}
+.menu{
+  padding-left: 50px;
+}
+
+h3{
+  font-size: 24px;
+}
+ul{
+  font-size: 20px;
+}
+.list{
+  font-size: 18px
+}
+.footer{
+  padding: 30px 20px;
+}
